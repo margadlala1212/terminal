@@ -1,0 +1,17 @@
+<!doctype html>
+<htmt>
+chead>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-black w-full h-[i0ovh] flex flex-col">
+<header class="w-full h-20 bg-blue-500 Lg:h-30 md:h-25 sm:h-20"></header>
+<div class="grid grid-cols-1 class w-full h-full bg-white md:grid-cols-2 sm:grid-cols-1 1g:grid-cols-[20%_60%_20%]">
+<div class="w-full h-full bg-pink-300 Lg:w-full md-cols-start-1 lg:col-start-1 Lg:row-start-1"></div>
+sdiv class-"w-full h-full bg-blue-3oo ig!w-full md-cols-start-i ndirov-start-a ha: col-spal-2 tgrcol-start-2 lg:roestart-t/do
+sdiv class-"w-full h-full bg-yellow-soo lg:w-full md-cols-start-I nd:row-start-1 ig:col-start-g tg:roustart-e/dlo
+</div>
+cheader class="w-full h-20 bg-blue-500 Lg:h-30 md:h-25 sm:h-20"></header>
+</body>
+</html>
